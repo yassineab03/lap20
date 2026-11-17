@@ -1,0 +1,15 @@
+# Java / Maven
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# H2 Database
+*.mv.db
+*.trace.db
+*.lock.db
+
+# Logs
+*.log
